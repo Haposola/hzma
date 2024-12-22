@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now working as an Assistant Professor, at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. 
+I am now working as a Lecture, at Northeastern University. 
 
 I received my bachelor and Ph.D. degree in the Department of Computer Science and Technology at Harbin Institute of Technology in 2016 and 2021, respectively. 
 
@@ -19,7 +19,7 @@ My research interests include computational theory, design, and analysis of algo
 
 Publications
 ======
-1. Hengzhao Ma, Jianzhong Li, Yong Zhang. Reconsidering Tree based Methods for k-Maximum Inner-Product Search: The LRUS-CoverTree. 40th International Conference on Data Engineering (ICDE, Accepted), 2024. Utrecht, Netherlands.
+1. Hengzhao Ma, Jianzhong Li, Yong Zhang. Reconsidering Tree based Methods for k-Maximum Inner-Product Search: The LRUS-CoverTree. 40th International Conference on Data Engineering (ICDE), 2024: 4671-4684. Utrecht, Netherlands.
 1. Hengzhao Ma, Jianzhong Li. Turing Machines with Two-level Memory: New Computational Models for Analyzing the Input/Output Complexity[J]. Theoretical Computer Science, 2024, 985: 114347. 
 1. Hengzhao Ma, Jianzhong Li. The Hardness of Optimization Problems on the Weighted Massively Parallel Computation Model[C]. The 29-th International Computing and Combinatorics Conference (COCOON), 2023: 106-117. Hawaii, USA.
 1. Tianpeng Gao, Jianzhong Li, Hengzhao Ma. A New Approach for Semi-External Topological Sorting on Big Graphs[J]. IEEE Transactions on Knowledge and Data Engineering, 35(12), 12430-12443. 2023. 
